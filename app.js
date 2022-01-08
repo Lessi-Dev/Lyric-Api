@@ -1,6 +1,7 @@
 const express = require('express');
 const Genius = require("genius-lyrics");
-const Client = new Genius.Client("c329lQYDEnLqPBtlfZxy6XjdzabO-LZ7fbxr-sMYhGRtFtQQ3PdI4nXu8gU81vlJ");
+const config = require('./config.json');
+const Client = new Genius.Client(config.api_key);
 var app = express();
 app.use(express.json());
 
