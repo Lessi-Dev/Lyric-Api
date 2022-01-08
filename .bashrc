@@ -1,4 +1,4 @@
-export PATH="$PATH:/home/mertenz/.local/bin/"
+export PATH="$PATH:/home/USER/.local/bin/"
 export LC_ALL=en_US.UTF-8
 
 alias c="clear"
