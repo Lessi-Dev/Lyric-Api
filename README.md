@@ -1,8 +1,3 @@
-[![Stargazers][stars-shield]][stars-url]
-
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Lessi-Dev/Lyric-bash/stargazers
-
 # Lyric-bash
 
 Get lyrics of a song just by the name inside of the console
@@ -36,6 +31,10 @@ npm i
 * execute the app.js file
 ```
 node app.js
+```
+* the command in the terminal looks like following
+```
+lyrics never-gonna-give-you-up
 ```
 
 ## Help
