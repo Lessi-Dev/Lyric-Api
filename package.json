@@ -1,0 +1,18 @@
+{
+  "name": "lyric-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.2",
+    "genius-lyrics": "^4.3.5",
+    "got": "^10.4.0"
+  }
+}
