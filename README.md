@@ -1,3 +1,8 @@
+[![Stargazers][stars-shield]][stars-url]
+
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/Lessi-Dev/Lyric-bash/stargazers
+
 # Lyric-bash
 
 Get lyrics of a song just by the name inside of the console
@@ -36,3 +41,6 @@ node app.js
 ## Help
 
 You can find the Genius acces token here `https://genius.com/api-clients`
+
+
+Help the Project by staring as [https://github.com/Lessi-Dev/Lyric-bash/stargazers]
